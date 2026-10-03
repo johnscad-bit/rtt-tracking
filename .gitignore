@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+output/
+*.csv
+*.pdf
+*.zip
+*.log
+pitcher_report_log_*.txt
